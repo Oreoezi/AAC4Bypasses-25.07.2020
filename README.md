@@ -1,2 +1,6 @@
-# AAC4Bypasses-25.07.2020
-Liquidbounce Legacy Scripts that used to bypass AAC4
+AAC4 Bypasses
+Created on 2020/07/25
+LongJump got patched
+Jesus prolly flags after a while
+Enjoy :)
+
